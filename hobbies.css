@@ -1,0 +1,17 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+    background-image: url('./images/nier.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#hobbies {
+    margin-top: 8px;
+}
+
+.heading {
+    margin-top: 524px;
+    color: white;
+}

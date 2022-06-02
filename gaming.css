@@ -1,0 +1,14 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+    background-image: url('./images/gaming.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#heading {
+    margin-top: 400px;
+    color: white;
+    text-align: center;
+}

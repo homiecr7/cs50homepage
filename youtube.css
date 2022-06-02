@@ -1,0 +1,24 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+    background-image: url('./images/pa.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.heading {
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+}
+
+#iframe {
+    align: center;
+    margin-left: 100px;
+}
+h2 {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}

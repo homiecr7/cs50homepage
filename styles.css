@@ -1,0 +1,39 @@
+.socials {
+    width: 13%;
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+    background-image: url('./images/demon.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.personal {
+    margin-left: 36px;
+    width: 80%;
+    height: 556px;
+}
+
+.about-parent {
+    display: flex;
+    width: 100%;
+  }
+
+.about-child {
+    flex: 1;
+    margin: 10px;
+  }
+
+.personal {
+    width: 80%;
+    border-radius: 2%;
+}
+
+#hobbies {
+    margin-bottom: 17px;
+}
+
+
